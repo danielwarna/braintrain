@@ -1,106 +1,103 @@
     [{ 
     name:  "Matti Laine, Ph.D.",
-    title: "Project leader",
+    title: "BrainTrain Project leader 2015-2018",
     desc:  "Professor of psychology. Adult clinical neuropsychologist whose research interests encompass neurocognition of working memory training, executive functions, bilingualism, language learning, and aphasia.",
     mail:  "matti.laine(AT)abo.fi",
-    phone: "+358 2 2153442",
     img : "/assets/images/mattilaine.jpg"
 },
 { 
-    name:  "Minna Lehtonen",
-    title: "Deputy project leader, Ph.D.",
-    desc:  "Academy Research Fellow. My research focuses on cognitive and neural basis of language processing, bilingualism, and executive functions.",
+    name:  "Minna Lehtonen, Ph.D.",
+    title: "BrainTrain Deputy project leader, Ph.D.",
+    desc:  "Currently Associate Professor, Centre for Multilingualism in Society across the Life Span, University of Oslo. I am interested in psycholinguistic questions such as how one or multiple languages are  processed in the brain and how learning a second language affects the neurocognitive system. See [https://www.hf.uio.no/multiling/english/people/core-group/minnal/](https://www.hf.uio.no/multiling/english/people/core-group/minnal)",
     mail:  "minna.lehtonen(AT)abo.fi",
-    phone: "+358 2 215 4533",
     img : "/assets/images/minna_lehtonen_updated.jpg"
     
 },
 { 
-    name:  "Petra Grönholm-Nyman",
-    title: "Postdoctoral researcher (Academy of Finland)",
+    name:  "Petra Grönholm-Nyman, Ph.D.",
+    title: "Currently University teacher, Department of Psychology, Åbo Akademi University",
     desc:  "Research interests: trainability of executive functions, neural correlates of cognitive functions in normal aging.",
     mail:  "petra.gronholm-nyman@(AT)abo.fi",
-    phone: "+358 2 215 4737",
     img : "/assets/images/petragronholmnyman.jpg"
 },
 { 
-    name:  "Anna Soveri, Ph. D.",
-    title: "Postdoctoral researcher",
-    desc:  "Primary research interests: working memory training, executive functions, and bilingualism.",
+    name:  "Anna Soveri, Ph.D.",
+    title: "Adjunct Professor",
+    desc:  "Currently Academy Research Fellow, Faculty of Medicine, University of Turku",
     mail:  "Anna.Soveri(AT)abo.fi",
-    phone: "+358 2 215 3436",
-    img : "/assets/images/annasoveri.jpg"
+    img : "/assets/images/annasoveri.jpg",
+    see : "[https://www.utu.fi/en/people/anna-soveri/](https://www.utu.fi/en/people/anna-soveri/)"
 },
 { 
     name:  "Juha Salmitaival",
-    title: "Senior researcher",
-    desc:  "My current research interests are mainly in typical and atypical development and malleability of cognitive control functions and related brain mechanisms.",
-    mail: "juha.salmitaival(AT)abo.fi",
+    title: "Adjunct Professor",
+    desc:  "Currently Research Fellow at the Turku Institute for Advanced Studies. My current research interests are mainly in typical and atypical development and malleability of cognitive control functions and related brain mechanisms.",
+    mail: "juha.salmitaival(AT)gmail.com",
     img : "/assets/images/Salmitaival_Juha.jpg"
 },
     
 {
-    name:  "Petra-Ann Boman",
-    title: "",
+    name:  "Petra-Ann Boman, MA",
+    title: "Clinical psychologist",
     desc:  "My research is related to working memory training in school-aged children with or without specific learning difficulties.",
     mail:  "petra.boman(AT)abo.fi",
     img:  "/assets/images/keeka_.jpg"
 },
 {
-    name:  "Christel Lundin",
-    title: "",
-    desc:  " I am studying the effects of working memory training in school children, including those with specific learning difficulties.",
+    name:  "Christel Lundin, MA",
+    title: "Clinical psychologist",
+    desc:  "BrainTrain-related research: the effects of working memory training in school children, including those with specific learning difficulties.",
     mail:  "",
     img:  "/assets/images/christel_.jpg"
 },
 { 
-    name:  "Otto Waris",
-    title: "",
-    desc:  "My research focuses on working memory functions and their malleability to computerized training.",
+    name:  "Otto Waris, Ph.D.",
+    title: "Currently a post doctoral researcher at the Vaccine Attitudes Research Project, Åbo Akademi University",
+    desc:  "BrainTrain-related research: working memory functions and their malleability to computerized training.",
     mail:  "otto.waris(AT)abo.fi",
     img : "/assets/images/ottowaris.jpg"
 },
 { 
     name:  "Jussi Jylkkä",
-    title: "",
-    desc:  "My research at the Abo Akademi University deals with bilingualism and executive functions.",
+    title: "Post doctoral researcher at the Department of Psychology, Åbo Akademi University",
+    desc:  "My BrainTrain-related research has dealt with bilingualism and executive functions.",
     mail:  "jussi.jylkka(AT)abo.fi",
     img : "/assets/images/jussijylkka.jpg"
 },
 {
-    name: "Karolina Lukasik",
-    title: "PhD student",
-    desc: "I'm a doctoral student in BrainTrain project. My research interests are: executive functions, bilingualism, and cognitive neuroscience.",
+    name: "Karolina Lukasik, MA (disputation May 6, 2019)",
+    title: "",
+    desc: "BrainTrain-related research: executive functions, bilingualism, and cognitive neuroscience.",
     mail: "karolina.lukasik(AT)abo.fi",
     img: "/assets/images/karolina.jpg"
 },
 
 { 
-    name:  "Linda Karlsson",
-    title: "",
-    desc:  "I am working as a project researcher on various subprojects of the BrainTrain.",
+    name:  "Linda Karlsson, MA",
+    title: "Currently a PhD student at the Department of Psychology, Åbo Akademi University",
+    desc:  "Linda worked as a project researcher on various subprojects of the BrainTrain.",
     mail:  "linda.karlsson(AT)abo.fi",
     img : "/assets/images/lindakarlsson.jpg"
 },
 
 { 
-    name:  "Daniel Fellman",
-    title: "PhD student",
-    desc:  "I'm a doctoral student in the BrainTrain project. My research interests are: Verbal working memory, cognitive neuroscience, and psycholinguistics.",
+    name:  "Daniel Fellman, Ph.D.",
+    title: "Currently post doctoral researcher at the Umeå University, Sweden",
+    desc:  "My BrainTrain-related research focus on working memory training and its underlying mechanisms. More specifically, I am interested in how participants acquire strategies and how these affect the training- and transfer outcomes following working memory training.",
     mail:  "daniel.fellman(AT)abo.fi",
     img : "/assets/images/daniel_fellman.jpg"
 },
 
 { 
     name:  "Adrià Vilà Balló",
-    title: "",
+    title: "Currently Associate Professor at the University of Girona, Spain",
     desc:  "My research interest is related to cognitive control and executive function training in normal and clinical groups",
     mail:  "",
     img : "/assets/images/Adria.jpg"
 },
 {
-    name:  "Marco Bucci",
-    title: "Visiting researcher Autumn 2016 - Spring 2017, PhD in Nuclear Medicine and Clinical Physiology",
+    name:  "Marco Bucci, Ph.D.",
+    title: "Visiting researcher in BrainTrain during Autumn 2016 - Spring 2017",
     desc: "I am interested in brain imaging and cognitive neuroscience.",
     mail: "marco.bucci(AT)abo.fi",
     img: "/assets/images/marcobucci_updated.jpg",
@@ -108,8 +105,8 @@
 
 { 
     name:  "Claudia Peñaloza Salazar",
-    title: "Visiting researcher Spring 2016 (IDIBELL, Barcelona), PhD student",
-    desc:  "",
+    title: "Visiting researcher in BrainTrain during Spring 2016",
+    desc:  "Currently a post doctoral researcher at the Aphasia Research Laboratory, Boston University, Boston, USA",
     mail:  "claudia_penaloza@hotmail.com",
     img : "/assets/images/claudia.jpg"
 },
@@ -117,7 +114,7 @@
 { 
     name:  "Daniel Wärnå",
     title: "Software Developer",
-    desc:  "Specializing in both fontend and backend web development and UI/UX design",
+    desc:  "Specializing in both frontend and backend web development and UI/UX design. Daniel has been developing further our in-house web-based testing and training platform called SOILE.",
     mail:  "daniel.warna(AT)abo.fi  ",
     img : "/assets/images/danielwarna.jpg"
 },
