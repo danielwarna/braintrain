@@ -23,10 +23,9 @@
 { 
     name:  "Anna Soveri, Ph.D.",
     title: "Adjunct Professor",
-    desc:  "Currently Academy Research Fellow, Faculty of Medicine, University of Turku",
+    desc:  "Currently Academy Research Fellow, Faculty of Medicine, University of Turku. See [https://www.utu.fi/en/people/anna-soveri/](https://www.utu.fi/en/people/anna-soveri/)",
     mail:  "Anna.Soveri(AT)abo.fi",
-    img : "/assets/images/annasoveri.jpg",
-    see : "[https://www.utu.fi/en/people/anna-soveri/](https://www.utu.fi/en/people/anna-soveri/)"
+    img : "/assets/images/annasoveri.jpg"
 },
 { 
     name:  "Juha Salmitaival",
