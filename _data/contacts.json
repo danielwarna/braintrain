@@ -8,7 +8,7 @@
 { 
     name:  "Minna Lehtonen, Ph.D.",
     title: "BrainTrain Deputy project leader, Ph.D.",
-    desc:  "Currently Associate Professor, Centre for Multilingualism in Society across the Life Span, University of Oslo. I am interested in psycholinguistic questions such as how one or multiple languages are  processed in the brain and how learning a second language affects the neurocognitive system. See [https://www.hf.uio.no/multiling/english/people/core-group/minnal/](https://www.hf.uio.no/multiling/english/people/core-group/minnal)",
+    desc:  "Currently Associate Professor, Centre for Multilingualism in Society across the Life Span, University of Oslo. I am interested in psycholinguistic questions such as how one or multiple languages are  processed in the brain and how learning a second language affects the neurocognitive system. See https://www.hf.uio.no/multiling/english/people/core-group/minnal",
     mail:  "minna.lehtonen(AT)abo.fi",
     img : "/assets/images/minna_lehtonen_updated.jpg"
     
@@ -23,7 +23,7 @@
 { 
     name:  "Anna Soveri, Ph.D.",
     title: "Adjunct Professor",
-    desc:  "Currently Academy Research Fellow, Faculty of Medicine, University of Turku. See [https://www.utu.fi/en/people/anna-soveri/](https://www.utu.fi/en/people/anna-soveri/)",
+    desc:  "Currently Academy Research Fellow, Faculty of Medicine, University of Turku. See https://www.utu.fi/en/people/anna-soveri",
     mail:  "Anna.Soveri(AT)abo.fi",
     img : "/assets/images/annasoveri.jpg"
 },
