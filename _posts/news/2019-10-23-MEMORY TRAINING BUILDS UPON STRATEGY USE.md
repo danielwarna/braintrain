@@ -8,4 +8,4 @@ We provide for the first time clear evidence of the important role strategies ha
 
 
 
-Fellman, D., Jylkkä, J., Waris, O., Soveri, A., Ritakallio, L., Haga, S., Salmi, J., Nyman, TN., & Laine, M. (2019). The role of strategy use in working memory training outcomes. <i> Journal of Memory and Language <i>. [https://doi.org/10.1016/j.jml.2019.104064](https://doi.org/10.1016/j.jml.2019.104064). [Epub ahead of print]
+Fellman, D., Jylkkä, J., Waris, O., Soveri, A., Ritakallio, L., Haga, S., Salmi, J., Nyman, TN., & Laine, M. (2019). The role of strategy use in working memory training outcomes. <i> Journal of Memory and Language </i>. [https://doi.org/10.1016/j.jml.2019.104064](https://doi.org/10.1016/j.jml.2019.104064). [Epub ahead of print]
