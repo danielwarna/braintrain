@@ -43,6 +43,13 @@
     img : "/assets/images/daniel_fellman.jpg"
 },
 { 
+    name:  "Liisa Ritakallio, MA",
+    title: "PhD student at the department pf Psychology, Åbo Akademi University",
+    desc:  "I study strategy use in working memory training.",
+    mail:  "liisa.ritakallio(AT)abo.fi",
+    img : ""
+},
+{ 
     name:  "Daniel Wärnå, MSc",
     title: "Software Developer",
     desc:  "Specializing in both frontend and backend web development and UI/UX design. Daniel has been developing further our in-house web-based testing and training platform called SOILE.",
