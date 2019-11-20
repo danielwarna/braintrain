@@ -5,6 +5,14 @@
     mail:  "matti.laine(AT)abo.fi",
     img : "/assets/images/mattilaine.jpg"
 },
+     { 
+    name:  "Jan Antfolk, Ph.D.",
+    title: "Strategies for Human Memory Project deputy leader",
+    title2: "Associate Professor",
+    desc:  "My current research interests are mainly in typical and atypical development and malleability of cognitive control functions and related brain mechanisms.",
+    mail: "juha.salmitaival(AT)gmail.com",
+    img : "/assets/images/Salmitaival_Juha.jpg"
+},
 { 
     name:  "Juha Salmitaival, Ph.D.",
     title: "Adjunct Professor, Research Fellow at the Turku Institute for Advanced Studies",
