@@ -1,6 +1,7 @@
     [{ 
     name:  "Matti Laine, Ph.D.",
-    title: "Strategies for Human Memory Project leader, BrainTrain project leader 2015-2018",
+    title: "Strategies for Human Memory Project leader",
+    title2: "BrainTrain project leader 2015-2018",
     desc:   "Professor of psychology. Adult clinical neuropsychologist whose research interests encompass neurocognition of working memory training, executive functions, bilingualism, language learning, and aphasia.",
     mail:  "matti.laine(AT)abo.fi",
     img : "/assets/images/mattilaine.jpg"
@@ -15,14 +16,16 @@
 },
 { 
     name:  "Juha Salmitaival, Ph.D.",
-    title: "Adjunct Professor, Research Fellow at the Turku Institute for Advanced Studies",
+    title: "Adjunct Professor",
+    title: "Research Fellow at the Turku Institute for Advanced Studies",
     desc:  "My current research interests are mainly in typical and atypical development and malleability of cognitive control functions and related brain mechanisms.",
     mail: "juha.salmitaival(AT)gmail.com",
     img : "/assets/images/Salmitaival_Juha.jpg"
 },
 { 
     name:  "Jussi Jylkkä, Ph.D.",
-    title: "Adjunct Professor, Postdoctoral researcher at the Department of Psychology, Åbo Akademi University",
+    title: "Adjunct Professor",
+    title2: "Postdoctoral researcher at the Department of Psychology, Åbo Akademi University",
     desc:  "I study cognition and consciousness, and the methodological and philosophical foundations of psychology. My research at BrainTrain deals with working memory, cognitive training, executive functions, and bilingualism.",
     mail:  "jussi.jylkka(AT)abo.fi",
     img : "/assets/images/jussijylkka.jpg"
@@ -50,14 +53,16 @@
 },
 { 
     name:  "Minna Lehtonen, Ph.D.",
-    title: "BrainTrain Deputy project leader 2015-2018, currently Associate Professor at the Centre for Multilingualism in Society across the Life Span, University of Oslo",
+    title: "BrainTrain Deputy project leader 2015-2018",
+    title2: "Currently Associate Professor at the Centre for Multilingualism in Society across the Life Span, University of Oslo",
     desc:  "I am interested in psycholinguistic questions such as how one or multiple languages are  processed in the brain and how learning a second language affects the neurocognitive system.",
     mail:  "minna.lehtonen(AT)abo.fi",
     img : "/assets/images/minna_lehtonen_updated.jpg"
 },
 { 
     name:  "Anna Soveri, Ph.D.",
-    title: "Adjunct Professor, currently Academy Research Fellow in the Faculty of Medicine, University of Turku",
+    title: "Adjunct Professor",
+    title2: "Currently Academy Research Fellow in the Faculty of Medicine, University of Turku",
     desc:  "See https://www.utu.fi/en/people/anna-soveri",
     mail:  "anna.soveri(AT)abo.fi",
     img : "/assets/images/annasoveri.jpg"
