@@ -11,21 +11,19 @@
     title: "Strategies for Human Memory Project deputy leader",
     title2: "Associate Professor in Applied Psychology at Åbo Akademi University",
     desc:  "Part of my research is directed at methodological improvements in the study of executive functions and working memory. Most of my research in this field is carried out through meta-analyses.",
-    mail: "jan.antfolk@abo.fi",
+    mail: "jan.antfolk(AT)abo.fi",
     img : "/assets/images/janantfolk_new.jpg"
 },
 { 
     name:  "Juha Salmitaival, Ph.D.",
-    title: "Adjunct Professor",
-    title2: "Research Fellow at the Turku Institute for Advanced Studies",
+    title: "Adjunct Professor, Research Fellow at the Turku Institute for Advanced Studies",
     desc:  "My current research interests are mainly in typical and atypical development and malleability of cognitive control functions and related brain mechanisms.",
     mail: "juha.salmitaival(AT)gmail.com",
     img : "/assets/images/Salmitaival_Juha.jpg"
 },
 { 
     name:  "Jussi Jylkkä, Ph.D.",
-    title: "Adjunct Professor",
-    title2: "Postdoctoral researcher at the Department of Psychology, Åbo Akademi University",
+    title: "Adjunct Professor, Postdoctoral researcher at the Department of Psychology, Åbo Akademi University",
     desc:  "I study cognition and consciousness, and the methodological and philosophical foundations of psychology. My research at BrainTrain deals with working memory, cognitive training, executive functions, and bilingualism.",
     mail:  "jussi.jylkka(AT)abo.fi",
     img : "/assets/images/jussijylkka.jpg"
@@ -61,8 +59,7 @@
 },
 { 
     name:  "Anna Soveri, Ph.D.",
-    title: "Adjunct Professor",
-    title2: "Currently Academy Research Fellow in the Faculty of Medicine, University of Turku",
+    title: "Adjunct Professor, currently Academy Research Fellow in the Faculty of Medicine, University of Turku",
     desc:  "See https://www.utu.fi/en/people/anna-soveri",
     mail:  "anna.soveri(AT)abo.fi",
     img : "/assets/images/annasoveri.jpg"
