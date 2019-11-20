@@ -57,6 +57,13 @@
     img : "/assets/images/danielwarna.jpg"
 },
 { 
+    name:  "Janne Hakala",
+    title: "Programmer",
+    desc:  "",
+    mail:  "janne.hakala(AT)abo.fi  ",
+    img : ""
+},
+{ 
     name:  "Minna Lehtonen, Ph.D.",
     title: "BrainTrain Deputy project leader 2015-2018",
     title2: "Currently Associate Professor at the Centre for Multilingualism in Society across the Life Span, University of Oslo",
