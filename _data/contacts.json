@@ -30,7 +30,7 @@
 },
 { 
     name:  "Otto Waris, Ph.D.",
-    title: "Postdoctoral researcher at the Department of Psychology, Åbo Akademi University",
+    title: "Currently postdoctoral researcher at the University of Turku",
     desc:  "BrainTrain-related research: working memory functions and their malleability to computerized training.",
     mail:  "otto.waris(AT)utu.fi",
     img : "/assets/images/ottowaris.jpg"
@@ -130,7 +130,7 @@
 { 
     name:  "Claudia Peñaloza Salazar, Ph.D.",
     title: "Visiting researcher in BrainTrain during Spring 2016",
-    desc:  "Currently a post doctoral researcher at the Aphasia Research Laboratory, Boston University, Boston, USA",
+    desc:  "Currently a post doctoral researcher at the Aphasia Research Laboratory, Boston University, Boston, USA. My research interests include clinical neuropsychology, language learning and language disorders.",
     mail:  "claudia_penaloza(AT)hotmail.com",
     img : "/assets/images/claudia.jpg"
 },
