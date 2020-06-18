@@ -18,7 +18,7 @@
     name:  "Juha Salmitaival, Ph.D.",
     title: "Adjunct Professor, Research Fellow at the Turku Institute for Advanced Studies",
     desc:  "My current research interests are mainly in typical and atypical development and malleability of cognitive control functions and related brain mechanisms.",
-    link: "https://www.aalto.fi/en/department-of-neuroscience-and-biomedical-engineering/translational-cognitive-neuroscience-lab",
+    website: "https://www.aalto.fi/en/department-of-neuroscience-and-biomedical-engineering/translational-cognitive-neuroscience-lab",
     mail: "juha.salmitaival(AT)gmail.com",
     img : "/assets/images/Salmitaival_Juha.jpg"
 },
@@ -74,7 +74,7 @@
 { 
     name:  "Anna Soveri, Ph.D.",
     title: "Adjunct Professor, currently Academy Research Fellow in the Faculty of Medicine, University of Turku",
-    link: "https://www.utu.fi/en/people/anna-soveri",
+    website: "https://www.utu.fi/en/people/anna-soveri",
     img : "/assets/images/annasoveri.jpg"
 },
 {
