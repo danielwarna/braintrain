@@ -68,42 +68,36 @@
     title: "BrainTrain Deputy project leader 2015-2018",
     title2: "Currently Associate Professor at the Centre for Multilingualism in Society across the Life Span, University of Oslo",
     desc:  "I am interested in psycholinguistic questions such as how one or multiple languages are  processed in the brain and how learning a second language affects the neurocognitive system.",
-    mail:  "minna.lehtonen(AT)abo.fi",
     img : "/assets/images/minna_lehtonen_updated.jpg"
 },
 { 
     name:  "Anna Soveri, Ph.D.",
     title: "Adjunct Professor, currently Academy Research Fellow in the Faculty of Medicine, University of Turku",
     desc:  "See: https://www.utu.fi/en/people/anna-soveri",
-    mail:  "anna.soveri(AT)abo.fi",
     img : "/assets/images/annasoveri.jpg"
 },
 {
     name: "Karolina Lukasik, Ph.D.",
     title: "Currently Adjunct at the SWPS University of Social Sciences and Humanities",
     desc: "BrainTrain-related research: executive functions, bilingualism, and cognitive neuroscience.",
-    mail: "karolina.lukasik(AT)abo.fi",
     img: "/assets/images/karolina.jpg"
 },
 { 
     name:  "Petra Grönholm-Nyman, Ph.D.",
     title: "Currently University teacher at the Department of Psychology, Åbo Akademi University",
     desc:  "Research interests: trainability of executive functions, neural correlates of cognitive functions in normal aging.",
-    mail:  "petra.gronholm-nyman(AT)abo.fi",
     img : "/assets/images/petragronholmnyman.jpg"
 },
 { 
     name:  "Linda Karlsson, MA",
     title: "Currently a PhD student at the Department of Psychology, Åbo Akademi University",
     desc:  "Linda worked as a project researcher on various subprojects of the BrainTrain.",
-    mail:  "linda.karlsson(AT)abo.fi",
     img : "/assets/images/lindakarlsson.jpg"
 },
 {
     name:  "Petra-Ann Boman, MA",
     title: "Clinical psychologist",
     desc:  "My research is related to working memory training in school-aged children with or without specific learning difficulties.",
-    mail:  "petra.boman(AT)abo.fi",
     img:  "/assets/images/keeka_.jpg"
 },
 {
@@ -122,7 +116,6 @@
     name:  "Marco Bucci, Ph.D.",
     title: "Visiting researcher in BrainTrain during Autumn 2016 - Spring 2017",
     desc: "I am interested in brain imaging and cognitive neuroscience.",
-    mail: "marco.bucci(AT)abo.fi",
     img: "/assets/images/marcobucci_updated.jpg",
 },
 { 
@@ -130,7 +123,6 @@
     title: "Visiting researcher in BrainTrain during Spring 2016",
     title2: "Currently a postdoctoral researcher at the Aphasia Research Laboratory, Boston University, Boston, USA",
     desc:  "My research interests include clinical neuropsychology, language learning and language disorders.",
-    mail:  "claudia_penaloza(AT)hotmail.com",
     img : "/assets/images/claudia.jpg"
 },
 ]
