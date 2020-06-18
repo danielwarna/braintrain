@@ -23,6 +23,9 @@ layout: default
                 {% if.contact.mail %}
                 <li><i class="fa fa-envelope pr-10"></i><a href="{{ contact.mail}}">{{ contact.mail}}</a></li>
                 {% endif %}
+                {% if.contact.link %}
+                <li><a href="{{ contact.link}}">{{ "See website"}}</a></li>
+                {% endif %}
             </ul>
         </div>
     </div>
