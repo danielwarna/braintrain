@@ -32,19 +32,19 @@
     name:  "Otto Waris, Ph.D.",
     title: "Postdoctoral researcher at the Department of Psychology, Åbo Akademi University",
     desc:  "BrainTrain-related research: working memory functions and their malleability to computerized training.",
-    mail:  "otto.waris(AT)abo.fi",
+    mail:  "otto.waris(AT)utu.fi",
     img : "/assets/images/ottowaris.jpg"
 },
 { 
     name:  "Daniel Fellman, Ph.D.",
     title: "Currently postdoctoral researcher at the Umeå University, Sweden",
     desc:  "My BrainTrain-related research focus on working memory training and its underlying mechanisms. More specifically, I am interested in how participants acquire strategies and how these affect the training- and transfer outcomes following working memory training.",
-    mail:  "dfellman@abo.fi",
+    mail:  "daniell.fellman(AT)umu.se",
     img : "/assets/images/daniel_fellman.jpg"
 },
 { 
     name:  "Liisa Ritakallio, MA",
-    title: "PhD student at the department of Psychology, Åbo Akademi University",
+    title: "PhD student at the Department of Psychology, Åbo Akademi University",
     desc:  "I study strategy use in working memory training.",
     mail:  "liisa.ritakallio(AT)abo.fi",
     img : ""
@@ -80,7 +80,7 @@
 },
 {
     name: "Karolina Lukasik, Ph.D.",
-    title: "",
+    title: "Currently Adjunct at the SWPS University of Social Sciences and Humanities",
     desc: "BrainTrain-related research: executive functions, bilingualism, and cognitive neuroscience.",
     mail: "karolina.lukasik(AT)abo.fi",
     img: "/assets/images/karolina.jpg"
