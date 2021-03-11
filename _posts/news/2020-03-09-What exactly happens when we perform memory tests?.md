@@ -1,0 +1,1 @@
+ When taking memory tests, the use of strategies changes rapidly during the first minutes into the task. This can be seen from the results of a recent research project carried out at Åbo Akademi University.
